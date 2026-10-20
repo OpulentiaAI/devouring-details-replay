@@ -1,0 +1,25 @@
+{
+ "removed": {
+  "scripts": 20,
+  "stylesheets": 4,
+  "preloads": 4
+ },
+ "sizes": {
+  "jsonMB": 12.85,
+  "gzMB": 8.72,
+  "scripts": 25,
+  "images": 27,
+  "api": 0,
+  "order": 20,
+  "htmlMB": 14.06
+ },
+ "fonts": {
+  "dd.woff2": 51980,
+  "JetBrainsMono-Regular.woff2": 92164,
+  "System-Regular-web.woff2": 34728,
+  "System-Medium-web.woff2": 35052,
+  "Caveat-Bold.ttf": 257364,
+  "a4.woff2": 18092
+ },
+ "privacy": []
+}
